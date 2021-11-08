@@ -1,2 +1,2 @@
-msg = input('Digite uma mensagem: ')
-print('Sua mensagem foi',msg)
+msg = input('Digite um número: ')
+print('O número foi',msg)
